@@ -12,9 +12,9 @@
 
 #### Scripts (tick when done):
 
-- [ ] usb-photo.py - the main program that takes the photo
-- [ ] usb-photo - the script that the user calls from cmd line
-- [ ] install.sh - the setup script that installs dependancies and the other files.
+- [x] usb-photo.py - the main program that takes the photo
+- [x] usb-photo - the script that the user calls from cmd line
+- [x] install.sh - the setup script that installs dependancies and the other files.
 
 
 *This is stored on the github repo*
