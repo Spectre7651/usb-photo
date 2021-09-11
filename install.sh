@@ -18,9 +18,9 @@ echo "Installing guizero via pip3"
 $(sudo pip3 install guizero)
 
 echo "Cloning the usb-webcam github repo"
-$(git clone https://github.com/alfie-ford/usb-photo.git ~/)
+$(git clone https://github.com/alfie-ford/usb-photo.git ~/.usb-photo)
 
 echo "Setting up the prompt"
-$(sudo cp  ~/usb-photo/usb-photo /usr/bin/)
+$(sudo cp  ~/.usb-photo/usb-photo /usr/bin/)
 
 
