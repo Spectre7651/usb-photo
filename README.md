@@ -12,3 +12,4 @@ Please note that you **don't** need to add the *.jpg* at the end of the filename
 The following programs/settings are required
 * sudo permissions
 * Python3
+* Git
