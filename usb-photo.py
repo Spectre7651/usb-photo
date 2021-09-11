@@ -5,8 +5,7 @@ from guizero import App, Text, Picture
 #The save location for the program
 save_location = "/home/pi/Pictures"
 
-#Get the date
-
+#Search for parameters
 try:
     mode = sys.argv[1]
     if mode == "-f":
